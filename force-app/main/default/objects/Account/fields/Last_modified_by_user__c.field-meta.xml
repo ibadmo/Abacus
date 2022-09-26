@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Last_modified_by_user__c</fullName>
+    <description>check identity of the modified person, and only bring the records modified by a person.</description>
+    <externalId>false</externalId>
+    <formula>(LastModifiedBy.Username  &lt;&gt; &apos;adminosf@abacus-mu.digital.prf&apos;)  &amp;&amp;  AccountShouldExport__c</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Last modified by user</label>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

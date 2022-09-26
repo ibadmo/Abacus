@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Organization_for_sale__c</fullName>
+    <externalId>false</externalId>
+    <label>Organization for sale</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Org. Vendes Abacus</fullName>
+                <default>false</default>
+                <label>Org. Vendes Abacus</label>
+            </value>
+            <value>
+                <fullName>Org. Vendes Ruc Savi</fullName>
+                <default>false</default>
+                <label>Org. Vendes Ruc Savi</label>
+            </value>
+            <value>
+                <fullName>Org. Ven PME Saragos</fullName>
+                <default>false</default>
+                <label>Org. Ven PME Saragos</label>
+            </value>
+            <value>
+                <fullName>Org. Ven PME Azarbe</fullName>
+                <default>false</default>
+                <label>Org. Ven PME Azarbe</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

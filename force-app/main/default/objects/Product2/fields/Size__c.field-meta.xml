@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Size__c</fullName>
+    <externalId>false</externalId>
+    <label>Size</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>34-36</fullName>
+                <default>false</default>
+                <label>34-36</label>
+            </value>
+            <value>
+                <fullName>37-39</fullName>
+                <default>false</default>
+                <label>37-39</label>
+            </value>
+            <value>
+                <fullName>De 9 a 11 anys</fullName>
+                <default>false</default>
+                <label>De 9 a 11 anys</label>
+            </value>
+            <value>
+                <fullName>40-42</fullName>
+                <default>false</default>
+                <label>40-42</label>
+            </value>
+            <value>
+                <fullName>43-45</fullName>
+                <default>false</default>
+                <label>43-45</label>
+            </value>
+            <value>
+                <fullName>46-48</fullName>
+                <default>false</default>
+                <label>46-48</label>
+            </value>
+            <value>
+                <fullName>De 2 a 3 anys</fullName>
+                <default>false</default>
+                <label>De 2 a 3 anys</label>
+            </value>
+            <value>
+                <fullName>De 3 a 4 anys</fullName>
+                <default>false</default>
+                <label>De 3 a 4 anys</label>
+            </value>
+            <value>
+                <fullName>De 3 a 5 anys</fullName>
+                <default>false</default>
+                <label>De 3 a 5 anys</label>
+            </value>
+            <value>
+                <fullName>De 4 a 6 anys</fullName>
+                <default>false</default>
+                <label>De 4 a 6 anys</label>
+            </value>
+            <value>
+                <fullName>De 5 a 6 anys</fullName>
+                <default>false</default>
+                <label>De 5 a 6 anys</label>
+            </value>
+            <value>
+                <fullName>44-47</fullName>
+                <default>false</default>
+                <label>44-47</label>
+            </value>
+            <value>
+                <fullName>De 6 a 7 anys</fullName>
+                <default>false</default>
+                <label>De 6 a 7 anys</label>
+            </value>
+            <value>
+                <fullName>De 7 a 9 anys</fullName>
+                <default>false</default>
+                <label>De 7 a 9 anys</label>
+            </value>
+            <value>
+                <fullName>L</fullName>
+                <default>false</default>
+                <label>L</label>
+            </value>
+            <value>
+                <fullName>Talla única</fullName>
+                <default>false</default>
+                <label>Talla única</label>
+            </value>
+            <value>
+                <fullName>De 1 a 2 anys</fullName>
+                <default>false</default>
+                <label>De 1 a 2 anys</label>
+            </value>
+            <value>
+                <fullName>De 10 a 12 anys</fullName>
+                <default>false</default>
+                <label>De 10 a 12 anys</label>
+            </value>
+            <value>
+                <fullName>XS</fullName>
+                <default>false</default>
+                <label>XS</label>
+            </value>
+            <value>
+                <fullName>De 7 a 8 anys</fullName>
+                <default>false</default>
+                <label>De 7 a 8 anys</label>
+            </value>
+            <value>
+                <fullName>35-38</fullName>
+                <default>false</default>
+                <label>35-38</label>
+            </value>
+            <value>
+                <fullName>39-42</fullName>
+                <default>false</default>
+                <label>39-42</label>
+            </value>
+            <value>
+                <fullName>43-46</fullName>
+                <default>false</default>
+                <label>43-46</label>
+            </value>
+            <value>
+                <fullName>De 12 a 13 anys</fullName>
+                <default>false</default>
+                <label>De 12 a 13 anys</label>
+            </value>
+            <value>
+                <fullName>M</fullName>
+                <default>false</default>
+                <label>M</label>
+            </value>
+            <value>
+                <fullName>S</fullName>
+                <default>false</default>
+                <label>S</label>
+            </value>
+            <value>
+                <fullName>De 0 a 2 mesos</fullName>
+                <default>false</default>
+                <label>De 0 a 2 mesos</label>
+            </value>
+            <value>
+                <fullName>De 0 a 6 mesos</fullName>
+                <default>false</default>
+                <label>De 0 a 6 mesos</label>
+            </value>
+            <value>
+                <fullName>De 8 a 10 anys</fullName>
+                <default>false</default>
+                <label>De 8 a 10 anys</label>
+            </value>
+            <value>
+                <fullName>De 6 a 12 mesos</fullName>
+                <default>false</default>
+                <label>De 6 a 12 mesos</label>
+            </value>
+            <value>
+                <fullName>De 5 a 7 anys</fullName>
+                <default>false</default>
+                <label>De 5 a 7 anys</label>
+            </value>
+            <value>
+                <fullName>41-46</fullName>
+                <default>false</default>
+                <label>41-46</label>
+            </value>
+            <value>
+                <fullName>De 6 a 10 anys</fullName>
+                <default>false</default>
+                <label>De 6 a 10 anys</label>
+            </value>
+            <value>
+                <fullName>XL</fullName>
+                <default>false</default>
+                <label>XL</label>
+            </value>
+            <value>
+                <fullName>XXL</fullName>
+                <default>false</default>
+                <label>XXL</label>
+            </value>
+            <value>
+                <fullName>40-43</fullName>
+                <default>false</default>
+                <label>40-43</label>
+            </value>
+            <value>
+                <fullName>24</fullName>
+                <default>false</default>
+                <label>24</label>
+            </value>
+            <value>
+                <fullName>26</fullName>
+                <default>false</default>
+                <label>26</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

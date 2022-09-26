@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Tariff__c</fullName>
+    <externalId>false</externalId>
+    <label>Tariff</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Cost Soci</fullName>
+                <default>false</default>
+                <label>Cost Soci</label>
+            </value>
+            <value>
+                <fullName>Diferit</fullName>
+                <default>false</default>
+                <label>Diferit</label>
+            </value>
+            <value>
+                <fullName>Venda públic</fullName>
+                <default>false</default>
+                <label>Venda públic</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

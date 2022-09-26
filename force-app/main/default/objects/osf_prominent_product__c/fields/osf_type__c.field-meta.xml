@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>osf_type__c</fullName>
+    <description>The type of prominency of the product.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>The type of prominency of the product.</inlineHelpText>
+    <label>Type</label>
+    <required>true</required>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Recommended</fullName>
+                <default>false</default>
+                <label>Recommended</label>
+            </value>
+            <value>
+                <fullName>Best Sellers</fullName>
+                <default>false</default>
+                <label>Best Sellers</label>
+            </value>
+            <value>
+                <fullName>New</fullName>
+                <default>false</default>
+                <label>New</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>3</visibleLines>
+</CustomField>

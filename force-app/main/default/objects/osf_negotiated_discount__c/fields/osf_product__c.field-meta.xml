@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>osf_product__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <description>Lookup to specific CC Product</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Lookup to specific CC Product</inlineHelpText>
+    <label>Product</label>
+    <referenceTo>ccrz__E_Product__c</referenceTo>
+    <relationshipLabel>Negotiated Discounts</relationshipLabel>
+    <relationshipName>osf_negotiated_discounts</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

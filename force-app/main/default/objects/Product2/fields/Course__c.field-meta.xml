@@ -1,0 +1,1060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Course__c</fullName>
+    <externalId>false</externalId>
+    <label>Course</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>B1-BATXILLERAT 1 MATÈRIES COMU_</fullName>
+                <default>false</default>
+                <label>B1-BATXILLERAT 1 MATÈRIES COMU_</label>
+            </value>
+            <value>
+                <fullName>B1A-</fullName>
+                <default>false</default>
+                <label>B1A-</label>
+            </value>
+            <value>
+                <fullName>B1C-BATXILLERAT 1 CIÈNCIES/TECNOL</fullName>
+                <default>false</default>
+                <label>B1C-BATXILLERAT 1 CIÈNCIES/TECNOL</label>
+            </value>
+            <value>
+                <fullName>B1L-BATXILLERAT 1 HUMAN./SOCIA</fullName>
+                <default>false</default>
+                <label>B1L-BATXILLERAT 1 HUMAN./SOCIA</label>
+            </value>
+            <value>
+                <fullName>B2-BATXILLERAT 2 MATÈRIES COMUNES</fullName>
+                <default>false</default>
+                <label>B2-BATXILLERAT 2 MATÈRIES COMUNES</label>
+            </value>
+            <value>
+                <fullName>B2C-BATXILLERAT 2 CIÈNCIES/TECNOL</fullName>
+                <default>false</default>
+                <label>B2C-BATXILLERAT 2 CIÈNCIES/TECNOL</label>
+            </value>
+            <value>
+                <fullName>B2D-BATXILLERAT 2 OPCIÓ ALEMANY_</fullName>
+                <default>false</default>
+                <label>B2D-BATXILLERAT 2 OPCIÓ ALEMANY_</label>
+            </value>
+            <value>
+                <fullName>B2L-BATXILLERAT 2 HUMANITATS/SOCIA</fullName>
+                <default>false</default>
+                <label>B2L-BATXILLERAT 2 HUMANITATS/SOCIA</label>
+            </value>
+            <value>
+                <fullName>B2A-</fullName>
+                <default>false</default>
+                <label>B2A-</label>
+            </value>
+            <value>
+                <fullName>BASI-Bàsic A2</fullName>
+                <default>false</default>
+                <label>BASI-Bàsic A2</label>
+            </value>
+            <value>
+                <fullName>BEG-Beginners A1</fullName>
+                <default>false</default>
+                <label>BEG-Beginners A1</label>
+            </value>
+            <value>
+                <fullName>BH-Business Higher C1</fullName>
+                <default>false</default>
+                <label>BH-Business Higher C1</label>
+            </value>
+            <value>
+                <fullName>BP-Business Preliminary B1</fullName>
+                <default>false</default>
+                <label>BP-Business Preliminary B1</label>
+            </value>
+            <value>
+                <fullName>BV-Business Vantage B2</fullName>
+                <default>false</default>
+                <label>BV-Business Vantage B2</label>
+            </value>
+            <value>
+                <fullName>CF-CICLE FORMATIU GM GS</fullName>
+                <default>false</default>
+                <label>CF-CICLE FORMATIU GM GS</label>
+            </value>
+            <value>
+                <fullName>CF-CAI-CURES AUXILIARS D&apos;INFERMERIA G</fullName>
+                <default>false</default>
+                <label>CF-CAI-CURES AUXILIARS D&apos;INFERMERIA G</label>
+            </value>
+            <value>
+                <fullName>CF00-CICLES FORMATIUS</fullName>
+                <default>false</default>
+                <label>CF00-CICLES FORMATIUS</label>
+            </value>
+            <value>
+                <fullName>CF02-ADMINISTRACIÓ FINANCES GS 2</fullName>
+                <default>false</default>
+                <label>CF02-ADMINISTRACIÓ FINANCES GS 2</label>
+            </value>
+            <value>
+                <fullName>CF03-GESTIÓ ADMINISTRATIVA GM</fullName>
+                <default>false</default>
+                <label>CF03-GESTIÓ ADMINISTRATIVA GM</label>
+            </value>
+            <value>
+                <fullName>CF04-GESTIÓ ADMINISTRATIVA</fullName>
+                <default>false</default>
+                <label>CF04-GESTIÓ ADMINISTRATIVA</label>
+            </value>
+            <value>
+                <fullName>CF22-ELECTRÒNICA 1</fullName>
+                <default>false</default>
+                <label>CF22-ELECTRÒNICA 1</label>
+            </value>
+            <value>
+                <fullName>CF25-DESENVOLUPAMENT EQUIPS 1</fullName>
+                <default>false</default>
+                <label>CF25-DESENVOLUPAMENT EQUIPS 1</label>
+            </value>
+            <value>
+                <fullName>CF37-MECANITZACIÓ 1</fullName>
+                <default>false</default>
+                <label>CF37-MECANITZACIÓ 1</label>
+            </value>
+            <value>
+                <fullName>CF47-FARMÀCIA</fullName>
+                <default>false</default>
+                <label>CF47-FARMÀCIA</label>
+            </value>
+            <value>
+                <fullName>CF49-FRED TÈRMICS I FLUIDS 2</fullName>
+                <default>false</default>
+                <label>CF49-FRED TÈRMICS I FLUIDS 2</label>
+            </value>
+            <value>
+                <fullName>CF65-COMERÇ I MARKETING GS</fullName>
+                <default>false</default>
+                <label>CF65-COMERÇ I MARKETING GS</label>
+            </value>
+            <value>
+                <fullName>CF76-EDUCACIÓ INFANTIL 1 GS</fullName>
+                <default>false</default>
+                <label>CF76-EDUCACIÓ INFANTIL 1 GS</label>
+            </value>
+            <value>
+                <fullName>CF89-CARROSSERIA 1</fullName>
+                <default>false</default>
+                <label>CF89-CARROSSERIA 1</label>
+            </value>
+            <value>
+                <fullName>CF90-CARROSSERIA 2</fullName>
+                <default>false</default>
+                <label>CF90-CARROSSERIA 2</label>
+            </value>
+            <value>
+                <fullName>CF95-ATENCIÓ SOCIOSANITÀRIA 1</fullName>
+                <default>false</default>
+                <label>CF95-ATENCIÓ SOCIOSANITÀRIA 1</label>
+            </value>
+            <value>
+                <fullName>CFGM-CICLE FORMATIU GRAU MITJÀ</fullName>
+                <default>false</default>
+                <label>CFGM-CICLE FORMATIU GRAU MITJÀ</label>
+            </value>
+            <value>
+                <fullName>CFGS-CICLE FORMATIU GRAU SUPERIOR</fullName>
+                <default>false</default>
+                <label>CFGS-CICLE FORMATIU GRAU SUPERIOR</label>
+            </value>
+            <value>
+                <fullName>DE1-Dele A1</fullName>
+                <default>false</default>
+                <label>DE1-Dele A1</label>
+            </value>
+            <value>
+                <fullName>DE2-Dele A2</fullName>
+                <default>false</default>
+                <label>DE2-Dele A2</label>
+            </value>
+            <value>
+                <fullName>DE3-Dele B1</fullName>
+                <default>false</default>
+                <label>DE3-Dele B1</label>
+            </value>
+            <value>
+                <fullName>DE4-Dele B2</fullName>
+                <default>false</default>
+                <label>DE4-Dele B2</label>
+            </value>
+            <value>
+                <fullName>DE5-Dele C1</fullName>
+                <default>false</default>
+                <label>DE5-Dele C1</label>
+            </value>
+            <value>
+                <fullName>DF1-Delf  A1</fullName>
+                <default>false</default>
+                <label>DF1-Delf  A1</label>
+            </value>
+            <value>
+                <fullName>DF2-Delf  A2</fullName>
+                <default>false</default>
+                <label>DF2-Delf  A2</label>
+            </value>
+            <value>
+                <fullName>DF3-Delf  B1</fullName>
+                <default>false</default>
+                <label>DF3-Delf  B1</label>
+            </value>
+            <value>
+                <fullName>DF4-Delf  B2</fullName>
+                <default>false</default>
+                <label>DF4-Delf  B2</label>
+            </value>
+            <value>
+                <fullName>DF5-Delf  C1</fullName>
+                <default>false</default>
+                <label>DF5-Delf  C1</label>
+            </value>
+            <value>
+                <fullName>E-PRIMÀRIA VARIS: TEXT_</fullName>
+                <default>false</default>
+                <label>E-PRIMÀRIA VARIS: TEXT_</label>
+            </value>
+            <value>
+                <fullName>E1-PRIMÀRIA 1.</fullName>
+                <default>false</default>
+                <label>E1-PRIMÀRIA 1.</label>
+            </value>
+            <value>
+                <fullName>E101-PRIMÀRIA 1</fullName>
+                <default>false</default>
+                <label>E101-PRIMÀRIA 1</label>
+            </value>
+            <value>
+                <fullName>E1E-PRIMÀRIA 1 CASTELLÀ_</fullName>
+                <default>false</default>
+                <label>E1E-PRIMÀRIA 1 CASTELLÀ_</label>
+            </value>
+            <value>
+                <fullName>E1V-PRIMÀRIA 1 VALENCIÀ</fullName>
+                <default>false</default>
+                <label>E1V-PRIMÀRIA 1 VALENCIÀ</label>
+            </value>
+            <value>
+                <fullName>E2-PRIMÀRIA 2</fullName>
+                <default>false</default>
+                <label>E2-PRIMÀRIA 2</label>
+            </value>
+            <value>
+                <fullName>E201-E201</fullName>
+                <default>false</default>
+                <label>E201-E201</label>
+            </value>
+            <value>
+                <fullName>E2E-PRIMÀRIA 2 CASTELLÀ_</fullName>
+                <default>false</default>
+                <label>E2E-PRIMÀRIA 2 CASTELLÀ_</label>
+            </value>
+            <value>
+                <fullName>E2V-PRIMÀRIA 2 VALENCIÀ</fullName>
+                <default>false</default>
+                <label>E2V-PRIMÀRIA 2 VALENCIÀ</label>
+            </value>
+            <value>
+                <fullName>E3-PRIMÀRIA 3</fullName>
+                <default>false</default>
+                <label>E3-PRIMÀRIA 3</label>
+            </value>
+            <value>
+                <fullName>E301-E301</fullName>
+                <default>false</default>
+                <label>E301-E301</label>
+            </value>
+            <value>
+                <fullName>E3E-PRIMÀRIA 3 CASTELLÀ</fullName>
+                <default>false</default>
+                <label>E3E-PRIMÀRIA 3 CASTELLÀ</label>
+            </value>
+            <value>
+                <fullName>E3V-PRIMÀRIA 3 VALENCIÀ</fullName>
+                <default>false</default>
+                <label>E3V-PRIMÀRIA 3 VALENCIÀ</label>
+            </value>
+            <value>
+                <fullName>E4-PRIMÀRIA 4</fullName>
+                <default>false</default>
+                <label>E4-PRIMÀRIA 4</label>
+            </value>
+            <value>
+                <fullName>E401-E401</fullName>
+                <default>false</default>
+                <label>E401-E401</label>
+            </value>
+            <value>
+                <fullName>E4E-PRIMÀRIA 4 CASTELLÀ_</fullName>
+                <default>false</default>
+                <label>E4E-PRIMÀRIA 4 CASTELLÀ_</label>
+            </value>
+            <value>
+                <fullName>E4V-PRIMÀRIA 4 VALENCIÀ</fullName>
+                <default>false</default>
+                <label>E4V-PRIMÀRIA 4 VALENCIÀ</label>
+            </value>
+            <value>
+                <fullName>E5-PRIMÀRIA 5</fullName>
+                <default>false</default>
+                <label>E5-PRIMÀRIA 5</label>
+            </value>
+            <value>
+                <fullName>E501-E501</fullName>
+                <default>false</default>
+                <label>E501-E501</label>
+            </value>
+            <value>
+                <fullName>E5E-PRIMÀRIA 5 CASTELLÀ</fullName>
+                <default>false</default>
+                <label>E5E-PRIMÀRIA 5 CASTELLÀ</label>
+            </value>
+            <value>
+                <fullName>E5V-PRIMÀRIA 5 VALENCIÀ</fullName>
+                <default>false</default>
+                <label>E5V-PRIMÀRIA 5 VALENCIÀ</label>
+            </value>
+            <value>
+                <fullName>E6-PRIMÀRIA 6</fullName>
+                <default>false</default>
+                <label>E6-PRIMÀRIA 6</label>
+            </value>
+            <value>
+                <fullName>E601-E601</fullName>
+                <default>false</default>
+                <label>E601-E601</label>
+            </value>
+            <value>
+                <fullName>E6E-PRIMÀRIA 6 CASTELLÀ</fullName>
+                <default>false</default>
+                <label>E6E-PRIMÀRIA 6 CASTELLÀ</label>
+            </value>
+            <value>
+                <fullName>E6V-PRIMÀRIA 6 VALENCIÀ</fullName>
+                <default>false</default>
+                <label>E6V-PRIMÀRIA 6 VALENCIÀ</label>
+            </value>
+            <value>
+                <fullName>EI01-ANGLÈS NIVELL 1</fullName>
+                <default>false</default>
+                <label>EI01-ANGLÈS NIVELL 1</label>
+            </value>
+            <value>
+                <fullName>EI02-ANGLÈS NIVELL 2</fullName>
+                <default>false</default>
+                <label>EI02-ANGLÈS NIVELL 2</label>
+            </value>
+            <value>
+                <fullName>EI03-ANGLÈS NIVELL 3</fullName>
+                <default>false</default>
+                <label>EI03-ANGLÈS NIVELL 3</label>
+            </value>
+            <value>
+                <fullName>EI04-ANGLÈS NIVELL 4</fullName>
+                <default>false</default>
+                <label>EI04-ANGLÈS NIVELL 4</label>
+            </value>
+            <value>
+                <fullName>EI05-ANGLÈS NIVELL 5</fullName>
+                <default>false</default>
+                <label>EI05-ANGLÈS NIVELL 5</label>
+            </value>
+            <value>
+                <fullName>EI11-ALEMANY NIVELL 1</fullName>
+                <default>false</default>
+                <label>EI11-ALEMANY NIVELL 1</label>
+            </value>
+            <value>
+                <fullName>EI12-ALEMANY NIVELL 2</fullName>
+                <default>false</default>
+                <label>EI12-ALEMANY NIVELL 2</label>
+            </value>
+            <value>
+                <fullName>EI13-ALEMANY NIVELL 3</fullName>
+                <default>false</default>
+                <label>EI13-ALEMANY NIVELL 3</label>
+            </value>
+            <value>
+                <fullName>EI14-ALEMANY NIVELL 4</fullName>
+                <default>false</default>
+                <label>EI14-ALEMANY NIVELL 4</label>
+            </value>
+            <value>
+                <fullName>EI15-ALEMANY NIVELL 5</fullName>
+                <default>false</default>
+                <label>EI15-ALEMANY NIVELL 5</label>
+            </value>
+            <value>
+                <fullName>EI23-FRANCÈS NIVELL 3</fullName>
+                <default>false</default>
+                <label>EI23-FRANCÈS NIVELL 3</label>
+            </value>
+            <value>
+                <fullName>EI24-FRANCÈS NIVELL 4</fullName>
+                <default>false</default>
+                <label>EI24-FRANCÈS NIVELL 4</label>
+            </value>
+            <value>
+                <fullName>EI25-FRANCÈS NIVELL 5</fullName>
+                <default>false</default>
+                <label>EI25-FRANCÈS NIVELL 5</label>
+            </value>
+            <value>
+                <fullName>EI62-CATALÀ NIVELL 2</fullName>
+                <default>false</default>
+                <label>EI62-CATALÀ NIVELL 2</label>
+            </value>
+            <value>
+                <fullName>EI64-CATALÀ NIVELL 4</fullName>
+                <default>false</default>
+                <label>EI64-CATALÀ NIVELL 4</label>
+            </value>
+            <value>
+                <fullName>EI65-CATALÀ NIVELL 5</fullName>
+                <default>false</default>
+                <label>EI65-CATALÀ NIVELL 5</label>
+            </value>
+            <value>
+                <fullName>ELE-Elementary A2</fullName>
+                <default>false</default>
+                <label>ELE-Elementary A2</label>
+            </value>
+            <value>
+                <fullName>ELEM-Elemental B1</fullName>
+                <default>false</default>
+                <label>ELEM-Elemental B1</label>
+            </value>
+            <value>
+                <fullName>ESO2-</fullName>
+                <default>false</default>
+                <label>ESO2-</label>
+            </value>
+            <value>
+                <fullName>ESO3-</fullName>
+                <default>false</default>
+                <label>ESO3-</label>
+            </value>
+            <value>
+                <fullName>ESO4-</fullName>
+                <default>false</default>
+                <label>ESO4-</label>
+            </value>
+            <value>
+                <fullName>EV04-PRIMÀRIA ÈTICA/RELIGIÓ</fullName>
+                <default>false</default>
+                <label>EV04-PRIMÀRIA ÈTICA/RELIGIÓ</label>
+            </value>
+            <value>
+                <fullName>FC-First Certificate B2</fullName>
+                <default>false</default>
+                <label>FC-First Certificate B2</label>
+            </value>
+            <value>
+                <fullName>FLY-Flyers A2</fullName>
+                <default>false</default>
+                <label>FLY-Flyers A2</label>
+            </value>
+            <value>
+                <fullName>FPB-FP BÀSICA</fullName>
+                <default>false</default>
+                <label>FPB-FP BÀSICA</label>
+            </value>
+            <value>
+                <fullName>IA-ANGLES TOTS NIVELLS</fullName>
+                <default>false</default>
+                <label>IA-ANGLES TOTS NIVELLS</label>
+            </value>
+            <value>
+                <fullName>IA1-</fullName>
+                <default>false</default>
+                <label>IA1-</label>
+            </value>
+            <value>
+                <fullName>IA4-ANGLÈS NIVELL 4-</fullName>
+                <default>false</default>
+                <label>IA4-ANGLÈS NIVELL 4-</label>
+            </value>
+            <value>
+                <fullName>INT-Intermediate B1</fullName>
+                <default>false</default>
+                <label>INT-Intermediate B1</label>
+            </value>
+            <value>
+                <fullName>INTE-Intermedi  B2</fullName>
+                <default>false</default>
+                <label>INTE-Intermedi  B2</label>
+            </value>
+            <value>
+                <fullName>ID-ALEMANY TOTS NIVELLS</fullName>
+                <default>false</default>
+                <label>ID-ALEMANY TOTS NIVELLS</label>
+            </value>
+            <value>
+                <fullName>ID2-DFF</fullName>
+                <default>false</default>
+                <label>ID2-DFF</label>
+            </value>
+            <value>
+                <fullName>IE1-ESPANYOL NIVELL 1</fullName>
+                <default>false</default>
+                <label>IE1-ESPANYOL NIVELL 1</label>
+            </value>
+            <value>
+                <fullName>IA2-</fullName>
+                <default>false</default>
+                <label>IA2-</label>
+            </value>
+            <value>
+                <fullName>IA3-</fullName>
+                <default>false</default>
+                <label>IA3-</label>
+            </value>
+            <value>
+                <fullName>KEY-Key A2</fullName>
+                <default>false</default>
+                <label>KEY-Key A2</label>
+            </value>
+            <value>
+                <fullName>MCE0-Starter</fullName>
+                <default>false</default>
+                <label>MCE0-Starter</label>
+            </value>
+            <value>
+                <fullName>MCE1-A1</fullName>
+                <default>false</default>
+                <label>MCE1-A1</label>
+            </value>
+            <value>
+                <fullName>MCE10-B2.</fullName>
+                <default>false</default>
+                <label>MCE10-B2.</label>
+            </value>
+            <value>
+                <fullName>MCE11-B2.1</fullName>
+                <default>false</default>
+                <label>MCE11-B2.1</label>
+            </value>
+            <value>
+                <fullName>MCE12-B2.2</fullName>
+                <default>false</default>
+                <label>MCE12-B2.2</label>
+            </value>
+            <value>
+                <fullName>MCE13-C1</fullName>
+                <default>false</default>
+                <label>MCE13-C1</label>
+            </value>
+            <value>
+                <fullName>MCE14-C2</fullName>
+                <default>false</default>
+                <label>MCE14-C2</label>
+            </value>
+            <value>
+                <fullName>MCE15-A1+</fullName>
+                <default>false</default>
+                <label>MCE15-A1+</label>
+            </value>
+            <value>
+                <fullName>MCE16-A2+</fullName>
+                <default>false</default>
+                <label>MCE16-A2+</label>
+            </value>
+            <value>
+                <fullName>MCE17-B1+</fullName>
+                <default>false</default>
+                <label>MCE17-B1+</label>
+            </value>
+            <value>
+                <fullName>MCE18-B2+</fullName>
+                <default>false</default>
+                <label>MCE18-B2+</label>
+            </value>
+            <value>
+                <fullName>MCE19-C1+</fullName>
+                <default>false</default>
+                <label>MCE19-C1+</label>
+            </value>
+            <value>
+                <fullName>MCE2-A1.1</fullName>
+                <default>false</default>
+                <label>MCE2-A1.1</label>
+            </value>
+            <value>
+                <fullName>MCE20-C2+</fullName>
+                <default>false</default>
+                <label>MCE20-C2+</label>
+            </value>
+            <value>
+                <fullName>MCE21-C1.1</fullName>
+                <default>false</default>
+                <label>MCE21-C1.1</label>
+            </value>
+            <value>
+                <fullName>MCE22-C1.2</fullName>
+                <default>false</default>
+                <label>MCE22-C1.2</label>
+            </value>
+            <value>
+                <fullName>MCE23-A1-A2</fullName>
+                <default>false</default>
+                <label>MCE23-A1-A2</label>
+            </value>
+            <value>
+                <fullName>MCE24-A1-B1</fullName>
+                <default>false</default>
+                <label>MCE24-A1-B1</label>
+            </value>
+            <value>
+                <fullName>MCE25-A1-B2</fullName>
+                <default>false</default>
+                <label>MCE25-A1-B2</label>
+            </value>
+            <value>
+                <fullName>MCE26-A2-B1</fullName>
+                <default>false</default>
+                <label>MCE26-A2-B1</label>
+            </value>
+            <value>
+                <fullName>MCE27-A2-B2</fullName>
+                <default>false</default>
+                <label>MCE27-A2-B2</label>
+            </value>
+            <value>
+                <fullName>MCE28-B1-B2</fullName>
+                <default>false</default>
+                <label>MCE28-B1-B2</label>
+            </value>
+            <value>
+                <fullName>MCE29-B1-C1</fullName>
+                <default>false</default>
+                <label>MCE29-B1-C1</label>
+            </value>
+            <value>
+                <fullName>MCE3-A1.2</fullName>
+                <default>false</default>
+                <label>MCE3-A1.2</label>
+            </value>
+            <value>
+                <fullName>MCE30-B1+-B2</fullName>
+                <default>false</default>
+                <label>MCE30-B1+-B2</label>
+            </value>
+            <value>
+                <fullName>MCE31-A2-C1</fullName>
+                <default>false</default>
+                <label>MCE31-A2-C1</label>
+            </value>
+            <value>
+                <fullName>MCE32-C1-C2</fullName>
+                <default>false</default>
+                <label>MCE32-C1-C2</label>
+            </value>
+            <value>
+                <fullName>MCE33-A1-C1</fullName>
+                <default>false</default>
+                <label>MCE33-A1-C1</label>
+            </value>
+            <value>
+                <fullName>MCE34-B2-C1</fullName>
+                <default>false</default>
+                <label>MCE34-B2-C1</label>
+            </value>
+            <value>
+                <fullName>MCE4-A2</fullName>
+                <default>false</default>
+                <label>MCE4-A2</label>
+            </value>
+            <value>
+                <fullName>MCE5-A2.1</fullName>
+                <default>false</default>
+                <label>MCE5-A2.1</label>
+            </value>
+            <value>
+                <fullName>MCE6-A2.2</fullName>
+                <default>false</default>
+                <label>MCE6-A2.2</label>
+            </value>
+            <value>
+                <fullName>MCE7-B1.</fullName>
+                <default>false</default>
+                <label>MCE7-B1.</label>
+            </value>
+            <value>
+                <fullName>MCE8-B1.1</fullName>
+                <default>false</default>
+                <label>MCE8-B1.1</label>
+            </value>
+            <value>
+                <fullName>MCE9-B1.2</fullName>
+                <default>false</default>
+                <label>MCE9-B1.2</label>
+            </value>
+            <value>
+                <fullName>MOV-Movers A1</fullName>
+                <default>false</default>
+                <label>MOV-Movers A1</label>
+            </value>
+            <value>
+                <fullName>P-INFANTIL VARIS_</fullName>
+                <default>false</default>
+                <label>P-INFANTIL VARIS_</label>
+            </value>
+            <value>
+                <fullName>P1-LLAR INFANTS 1 ANY</fullName>
+                <default>false</default>
+                <label>P1-LLAR INFANTS 1 ANY</label>
+            </value>
+            <value>
+                <fullName>P104-INFANTIL 1 ANY</fullName>
+                <default>false</default>
+                <label>P104-INFANTIL 1 ANY</label>
+            </value>
+            <value>
+                <fullName>P2-LLAR INFANTS 2 ANYS_</fullName>
+                <default>false</default>
+                <label>P2-LLAR INFANTS 2 ANYS_</label>
+            </value>
+            <value>
+                <fullName>P201-INFANTIL 2 ANYS</fullName>
+                <default>false</default>
+                <label>P201-INFANTIL 2 ANYS</label>
+            </value>
+            <value>
+                <fullName>P3-INFANTIL 3 ANYS</fullName>
+                <default>false</default>
+                <label>P3-INFANTIL 3 ANYS</label>
+            </value>
+            <value>
+                <fullName>P3E-INFANTIL 3 ANYS CASTELLÀ_</fullName>
+                <default>false</default>
+                <label>P3E-INFANTIL 3 ANYS CASTELLÀ_</label>
+            </value>
+            <value>
+                <fullName>P3V-INFANTIL 3 ANYS VALENCIÀ_</fullName>
+                <default>false</default>
+                <label>P3V-INFANTIL 3 ANYS VALENCIÀ_</label>
+            </value>
+            <value>
+                <fullName>P4-INFANTIL 4 ANYS</fullName>
+                <default>false</default>
+                <label>P4-INFANTIL 4 ANYS</label>
+            </value>
+            <value>
+                <fullName>P401-P401</fullName>
+                <default>false</default>
+                <label>P401-P401</label>
+            </value>
+            <value>
+                <fullName>P4E-INFANTIL 4 ANYS CASTELLÀ_</fullName>
+                <default>false</default>
+                <label>P4E-INFANTIL 4 ANYS CASTELLÀ_</label>
+            </value>
+            <value>
+                <fullName>P4V-INFANTIL 4 ANYS VALENCIÀ.</fullName>
+                <default>false</default>
+                <label>P4V-INFANTIL 4 ANYS VALENCIÀ.</label>
+            </value>
+            <value>
+                <fullName>P5-INFANTIL 5 ANYS</fullName>
+                <default>false</default>
+                <label>P5-INFANTIL 5 ANYS</label>
+            </value>
+            <value>
+                <fullName>P501-P501</fullName>
+                <default>false</default>
+                <label>P501-P501</label>
+            </value>
+            <value>
+                <fullName>P5E-INFANTIL 5 ANYS CASTELLÀ_</fullName>
+                <default>false</default>
+                <label>P5E-INFANTIL 5 ANYS CASTELLÀ_</label>
+            </value>
+            <value>
+                <fullName>P5V-INFANTIL 5 ANYS VALENCIÀ_</fullName>
+                <default>false</default>
+                <label>P5V-INFANTIL 5 ANYS VALENCIÀ_</label>
+            </value>
+            <value>
+                <fullName>PACF-PROVES ACCES DE GM-GS</fullName>
+                <default>false</default>
+                <label>PACF-PROVES ACCES DE GM-GS</label>
+            </value>
+            <value>
+                <fullName>PCPI-PROGRAMAS CUALIFICACIÓN PROFES</fullName>
+                <default>false</default>
+                <label>PCPI-PROGRAMAS CUALIFICACIÓN PROFES</label>
+            </value>
+            <value>
+                <fullName>PET-Preliminary B1</fullName>
+                <default>false</default>
+                <label>PET-Preliminary B1</label>
+            </value>
+            <value>
+                <fullName>PMAR1-Pr.millora apren.  rendiment 1</fullName>
+                <default>false</default>
+                <label>PMAR1-Pr.millora apren.  rendiment 1</label>
+            </value>
+            <value>
+                <fullName>PMAR2-Pr.millora apren.  rendiment 2</fullName>
+                <default>false</default>
+                <label>PMAR2-Pr.millora apren.  rendiment 2</label>
+            </value>
+            <value>
+                <fullName>PRE-Pre-Intermediate B1</fullName>
+                <default>false</default>
+                <label>PRE-Pre-Intermediate B1</label>
+            </value>
+            <value>
+                <fullName>PRIM-PRIMÀRIA</fullName>
+                <default>false</default>
+                <label>PRIM-PRIMÀRIA</label>
+            </value>
+            <value>
+                <fullName>PRIM1-PRIMÀRIA PRIMER CICLE PRIMER C</fullName>
+                <default>false</default>
+                <label>PRIM1-PRIMÀRIA PRIMER CICLE PRIMER C</label>
+            </value>
+            <value>
+                <fullName>PRIM2-PRIM2</fullName>
+                <default>false</default>
+                <label>PRIM2-PRIM2</label>
+            </value>
+            <value>
+                <fullName>PRIM3-PRIM3</fullName>
+                <default>false</default>
+                <label>PRIM3-PRIM3</label>
+            </value>
+            <value>
+                <fullName>PRIM4-PRIM4</fullName>
+                <default>false</default>
+                <label>PRIM4-PRIM4</label>
+            </value>
+            <value>
+                <fullName>PRIM5-PRIM5</fullName>
+                <default>false</default>
+                <label>PRIM5-PRIM5</label>
+            </value>
+            <value>
+                <fullName>PRIM6-PRIMÀRIA TERCER CICLE SEGON CU</fullName>
+                <default>false</default>
+                <label>PRIM6-PRIMÀRIA TERCER CICLE SEGON CU</label>
+            </value>
+            <value>
+                <fullName>PRO-Proficiency C2</fullName>
+                <default>false</default>
+                <label>PRO-Proficiency C2</label>
+            </value>
+            <value>
+                <fullName>S-ESO VARIS</fullName>
+                <default>false</default>
+                <label>S-ESO VARIS</label>
+            </value>
+            <value>
+                <fullName>S1-S1_ESO 1</fullName>
+                <default>false</default>
+                <label>S1-S1_ESO 1</label>
+            </value>
+            <value>
+                <fullName>S100-ESO. TOTS ELS CURSOS</fullName>
+                <default>false</default>
+                <label>S100-ESO. TOTS ELS CURSOS</label>
+            </value>
+            <value>
+                <fullName>S101-ESO 1</fullName>
+                <default>false</default>
+                <label>S101-ESO 1</label>
+            </value>
+            <value>
+                <fullName>S102-ESO 1 LECTURES</fullName>
+                <default>false</default>
+                <label>S102-ESO 1 LECTURES</label>
+            </value>
+            <value>
+                <fullName>S117-ESO 1-2</fullName>
+                <default>false</default>
+                <label>S117-ESO 1-2</label>
+            </value>
+            <value>
+                <fullName>S1E-ESO 1 CASTELLÀ_</fullName>
+                <default>false</default>
+                <label>S1E-ESO 1 CASTELLÀ_</label>
+            </value>
+            <value>
+                <fullName>S1V-ESO 1 VALENCIÀ_</fullName>
+                <default>false</default>
+                <label>S1V-ESO 1 VALENCIÀ_</label>
+            </value>
+            <value>
+                <fullName>S2-S2_ESO 2</fullName>
+                <default>false</default>
+                <label>S2-S2_ESO 2</label>
+            </value>
+            <value>
+                <fullName>S201-ESO 2</fullName>
+                <default>false</default>
+                <label>S201-ESO 2</label>
+            </value>
+            <value>
+                <fullName>S2E-ESO 2 CASTELLÀ</fullName>
+                <default>false</default>
+                <label>S2E-ESO 2 CASTELLÀ</label>
+            </value>
+            <value>
+                <fullName>S2V-ESO 2 VALENCIÀ</fullName>
+                <default>false</default>
+                <label>S2V-ESO 2 VALENCIÀ</label>
+            </value>
+            <value>
+                <fullName>S3-S3_ESO 3</fullName>
+                <default>false</default>
+                <label>S3-S3_ESO 3</label>
+            </value>
+            <value>
+                <fullName>S301-ESO 3</fullName>
+                <default>false</default>
+                <label>S301-ESO 3</label>
+            </value>
+            <value>
+                <fullName>S304-ESO 3 ALEMANY</fullName>
+                <default>false</default>
+                <label>S304-ESO 3 ALEMANY</label>
+            </value>
+            <value>
+                <fullName>S3E-ESO 3 CASTELLÀ</fullName>
+                <default>false</default>
+                <label>S3E-ESO 3 CASTELLÀ</label>
+            </value>
+            <value>
+                <fullName>S3V-ESO 3 VALENCIÀ_</fullName>
+                <default>false</default>
+                <label>S3V-ESO 3 VALENCIÀ_</label>
+            </value>
+            <value>
+                <fullName>S3A-</fullName>
+                <default>false</default>
+                <label>S3A-</label>
+            </value>
+            <value>
+                <fullName>S401-</fullName>
+                <default>false</default>
+                <label>S401-</label>
+            </value>
+            <value>
+                <fullName>S4-S4_ESO 4</fullName>
+                <default>false</default>
+                <label>S4-S4_ESO 4</label>
+            </value>
+            <value>
+                <fullName>S4E-ESO 4 CASTELLÀ_</fullName>
+                <default>false</default>
+                <label>S4E-ESO 4 CASTELLÀ_</label>
+            </value>
+            <value>
+                <fullName>S4V-ESO 4 VALENCIÀ_</fullName>
+                <default>false</default>
+                <label>S4V-ESO 4 VALENCIÀ_</label>
+            </value>
+            <value>
+                <fullName>SB0-TOTS ELS CURSOS ESO I BATXILLE</fullName>
+                <default>false</default>
+                <label>SB0-TOTS ELS CURSOS ESO I BATXILLE</label>
+            </value>
+            <value>
+                <fullName>SD1-Start Deutsch A1</fullName>
+                <default>false</default>
+                <label>SD1-Start Deutsch A1</label>
+            </value>
+            <value>
+                <fullName>SD2-Start Deutsch A2</fullName>
+                <default>false</default>
+                <label>SD2-Start Deutsch A2</label>
+            </value>
+            <value>
+                <fullName>SEC1C-SECUNDÀRIA PRIMER CICLE</fullName>
+                <default>false</default>
+                <label>SEC1C-SECUNDÀRIA PRIMER CICLE</label>
+            </value>
+            <value>
+                <fullName>SEC2-SECUNDÀRIA 2 PRIMER CICLE</fullName>
+                <default>false</default>
+                <label>SEC2-SECUNDÀRIA 2 PRIMER CICLE</label>
+            </value>
+            <value>
+                <fullName>SEC2C-SECUNDÀRIA SEGON CICLE</fullName>
+                <default>false</default>
+                <label>SEC2C-SECUNDÀRIA SEGON CICLE</label>
+            </value>
+            <value>
+                <fullName>SEC3-SECUNDÀRIA 3 SEGON CICLE</fullName>
+                <default>false</default>
+                <label>SEC3-SECUNDÀRIA 3 SEGON CICLE</label>
+            </value>
+            <value>
+                <fullName>STA-Starters A1</fullName>
+                <default>false</default>
+                <label>STA-Starters A1</label>
+            </value>
+            <value>
+                <fullName>SUFI-Suficiència C1</fullName>
+                <default>false</default>
+                <label>SUFI-Suficiència C1</label>
+            </value>
+            <value>
+                <fullName>SUPE-Superior D</fullName>
+                <default>false</default>
+                <label>SUPE-Superior D</label>
+            </value>
+            <value>
+                <fullName>SV07-ESO ÈTICA/RELIGIÓ</fullName>
+                <default>false</default>
+                <label>SV07-ESO ÈTICA/RELIGIÓ</label>
+            </value>
+            <value>
+                <fullName>UPP-Upper-intermediate B2</fullName>
+                <default>false</default>
+                <label>UPP-Upper-intermediate B2</label>
+            </value>
+            <value>
+                <fullName>ZD1-Zertifikat B1</fullName>
+                <default>false</default>
+                <label>ZD1-Zertifikat B1</label>
+            </value>
+            <value>
+                <fullName>ZD2-Zertifikat B2</fullName>
+                <default>false</default>
+                <label>ZD2-Zertifikat B2</label>
+            </value>
+            <value>
+                <fullName>ZD3-Zertifikat C1</fullName>
+                <default>false</default>
+                <label>ZD3-Zertifikat C1</label>
+            </value>
+            <value>
+                <fullName>ZD4-Zertifikat C2</fullName>
+                <default>false</default>
+                <label>ZD4-Zertifikat C2</label>
+            </value>
+            <value>
+                <fullName>LFC-Lectura fàcil</fullName>
+                <default>false</default>
+                <label>LFC-Lectura fàcil</label>
+            </value>
+            <value>
+                <fullName>LFE-Lectura fàcil.</fullName>
+                <default>false</default>
+                <label>LFE-Lectura fàcil.</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

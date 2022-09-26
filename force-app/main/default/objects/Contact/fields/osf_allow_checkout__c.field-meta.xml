@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>osf_allow_checkout__c</fullName>
+    <defaultValue>true</defaultValue>
+    <description>if it is TRUE then the user is allowed to checkout, otherwise, he/she is not able to do that.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>if it is TRUE then the user is allowed to checkout, otherwise, he/she is not able to do that.</inlineHelpText>
+    <label>Allow Checkout</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>true</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

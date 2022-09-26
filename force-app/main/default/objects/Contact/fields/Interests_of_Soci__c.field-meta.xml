@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Interests_of_Soci__c</fullName>
+    <externalId>false</externalId>
+    <label>Interests of Soci</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Educació</fullName>
+                <default>false</default>
+                <label>Educació</label>
+            </value>
+            <value>
+                <fullName>Lleure</fullName>
+                <default>false</default>
+                <label>Lleure</label>
+            </value>
+            <value>
+                <fullName>Cultura</fullName>
+                <default>false</default>
+                <label>Cultura</label>
+            </value>
+            <value>
+                <fullName>Cooperació</fullName>
+                <default>false</default>
+                <label>Cooperació</label>
+            </value>
+            <value>
+                <fullName>Medi ambient</fullName>
+                <default>false</default>
+                <label>Medi ambient</label>
+            </value>
+            <value>
+                <fullName>Ofertes i promocions</fullName>
+                <default>false</default>
+                <label>Ofertes i promocions</label>
+            </value>
+            <value>
+                <fullName>Benestar</fullName>
+                <default>false</default>
+                <label>Benestar</label>
+            </value>
+            <value>
+                <fullName>Llibres</fullName>
+                <default>false</default>
+                <label>Llibres</label>
+            </value>
+            <value>
+                <fullName>Llibres infantils</fullName>
+                <default>false</default>
+                <label>Llibres infantils</label>
+            </value>
+            <value>
+                <fullName>Joguines</fullName>
+                <default>false</default>
+                <label>Joguines</label>
+            </value>
+            <value>
+                <fullName>Manualitats</fullName>
+                <default>false</default>
+                <label>Manualitats</label>
+            </value>
+            <value>
+                <fullName>Papereria</fullName>
+                <default>false</default>
+                <label>Papereria</label>
+            </value>
+            <value>
+                <fullName>Tecnologia</fullName>
+                <default>false</default>
+                <label>Tecnologia</label>
+            </value>
+            <value>
+                <fullName>Música</fullName>
+                <default>false</default>
+                <label>Música</label>
+            </value>
+            <value>
+                <fullName>Escriure</fullName>
+                <default>false</default>
+                <label>Escriure</label>
+            </value>
+            <value>
+                <fullName>Llegir</fullName>
+                <default>false</default>
+                <label>Llegir</label>
+            </value>
+            <value>
+                <fullName>Viatjar</fullName>
+                <default>false</default>
+                <label>Viatjar</label>
+            </value>
+            <value>
+                <fullName>Espectacles</fullName>
+                <default>false</default>
+                <label>Espectacles</label>
+            </value>
+            <value>
+                <fullName>Jugar en família</fullName>
+                <default>false</default>
+                <label>Jugar en família</label>
+            </value>
+            <value>
+                <fullName>Tallers per adults</fullName>
+                <default>false</default>
+                <label>Tallers per adults</label>
+            </value>
+            <value>
+                <fullName>Activitats infantils</fullName>
+                <default>false</default>
+                <label>Activitats infantils</label>
+            </value>
+            <value>
+                <fullName>Presentacions de llibres</fullName>
+                <default>false</default>
+                <label>Presentacions de llibres</label>
+            </value>
+            <value>
+                <fullName>Idees per regalar</fullName>
+                <default>false</default>
+                <label>Idees per regalar</label>
+            </value>
+            <value>
+                <fullName>Fishing</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Fishing</label>
+            </value>
+            <value>
+                <fullName>Reading</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Reading</label>
+            </value>
+            <value>
+                <fullName>Singing</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Singing</label>
+            </value>
+            <value>
+                <fullName>Walking</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Walking</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>

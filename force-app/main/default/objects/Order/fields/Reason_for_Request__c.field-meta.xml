@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Reason_for_Request__c</fullName>
+    <externalId>false</externalId>
+    <label>Reason for Request</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Z00-Venda immediata</fullName>
+                <default>false</default>
+                <label>Z00-Venda immediata</label>
+            </value>
+            <value>
+                <fullName>Z01-Encàrrec</fullName>
+                <default>false</default>
+                <label>Z01-Encàrrec</label>
+            </value>
+            <value>
+                <fullName>Z02-Reserva</fullName>
+                <default>false</default>
+                <label>Z02-Reserva</label>
+            </value>
+            <value>
+                <fullName>Z03-Quota alta soci</fullName>
+                <default>false</default>
+                <label>Z03-Quota alta soci</label>
+            </value>
+            <value>
+                <fullName>Z04-Comanda WEB</fullName>
+                <default>false</default>
+                <label>Z04-Comanda WEB</label>
+            </value>
+            <value>
+                <fullName>Z05-Devolucions diferit</fullName>
+                <default>false</default>
+                <label>Z05-Devolucions diferit</label>
+            </value>
+            <value>
+                <fullName>Z06-Campanya Text Ampa</fullName>
+                <default>false</default>
+                <label>Z06-Campanya Text Ampa</label>
+            </value>
+            <value>
+                <fullName>Z07-Campanya Sant Jordi</fullName>
+                <default>false</default>
+                <label>Z07-Campanya Sant Jordi</label>
+            </value>
+            <value>
+                <fullName>Z08-Inici de Curs Escoles</fullName>
+                <default>false</default>
+                <label>Z08-Inici de Curs Escoles</label>
+            </value>
+            <value>
+                <fullName>Z09-Lots de material</fullName>
+                <default>false</default>
+                <label>Z09-Lots de material</label>
+            </value>
+            <value>
+                <fullName>Z10-Distribució Rep. Llibres</fullName>
+                <default>false</default>
+                <label>Z10-Distribució Rep. Llibres</label>
+            </value>
+            <value>
+                <fullName>Z11-Franquicies Cataleg</fullName>
+                <default>false</default>
+                <label>Z11-Franquicies Cataleg</label>
+            </value>
+            <value>
+                <fullName>Z12-Franquicies Servei Novetats</fullName>
+                <default>false</default>
+                <label>Z12-Franquicies Servei Novetats</label>
+            </value>
+            <value>
+                <fullName>Z13-Comanda WEB Botiga</fullName>
+                <default>false</default>
+                <label>Z13-Comanda WEB Botiga</label>
+            </value>
+            <value>
+                <fullName>Z14-VD_AFEGITS</fullName>
+                <default>false</default>
+                <label>Z14-VD_AFEGITS</label>
+            </value>
+            <value>
+                <fullName>Z15-VD_INCIDENCIA</fullName>
+                <default>false</default>
+                <label>Z15-VD_INCIDENCIA</label>
+            </value>
+            <value>
+                <fullName>Z16-VD-VENDA ANTICIPADA</fullName>
+                <default>false</default>
+                <label>Z16-VD-VENDA ANTICIPADA</label>
+            </value>
+            <value>
+                <fullName>Z17-Distribució NADAL</fullName>
+                <default>false</default>
+                <label>Z17-Distribució NADAL</label>
+            </value>
+            <value>
+                <fullName>Z18-Distribució IMPULS</fullName>
+                <default>false</default>
+                <label>Z18-Distribució IMPULS</label>
+            </value>
+            <value>
+                <fullName>Z19-Distribució PERMANENT</fullName>
+                <default>false</default>
+                <label>Z19-Distribució PERMANENT</label>
+            </value>
+            <value>
+                <fullName>Z20-Comanda ZWEB Diferit Material Escolar</fullName>
+                <default>false</default>
+                <label>Z20-Comanda ZWEB Diferit Material Escolar</label>
+            </value>
+            <value>
+                <fullName>Z21-Reparacions</fullName>
+                <default>false</default>
+                <label>Z21-Reparacions</label>
+            </value>
+            <value>
+                <fullName>Z22-Copies</fullName>
+                <default>false</default>
+                <label>Z22-Copies</label>
+            </value>
+            <value>
+                <fullName>Z23-Especials Pompeu</fullName>
+                <default>false</default>
+                <label>Z23-Especials Pompeu</label>
+            </value>
+            <value>
+                <fullName>Z24-Absis servir client</fullName>
+                <default>false</default>
+                <label>Z24-Absis servir client</label>
+            </value>
+            <value>
+                <fullName>Z25-Signatures Web a Botiga</fullName>
+                <default>false</default>
+                <label>Z25-Signatures Web a Botiga</label>
+            </value>
+            <value>
+                <fullName>Z26-Signatures Web a Domicili</fullName>
+                <default>false</default>
+                <label>Z26-Signatures Web a Domicili</label>
+            </value>
+            <value>
+                <fullName>Z27-Signatures Absis a Domicili</fullName>
+                <default>false</default>
+                <label>Z27-Signatures Absis a Domicili</label>
+            </value>
+            <value>
+                <fullName>Z30-Campanya Text Botiga</fullName>
+                <default>false</default>
+                <label>Z30-Campanya Text Botiga</label>
+            </value>
+            <value>
+                <fullName>Z31-Lots WEB servir Escola</fullName>
+                <default>false</default>
+                <label>Z31-Lots WEB servir Escola</label>
+            </value>
+            <value>
+                <fullName>Z32-Lots WEB servir Client</fullName>
+                <default>false</default>
+                <label>Z32-Lots WEB servir Client</label>
+            </value>
+            <value>
+                <fullName>Z33-Lots WEB servir Botiga</fullName>
+                <default>false</default>
+                <label>Z33-Lots WEB servir Botiga</label>
+            </value>
+            <value>
+                <fullName>Z34-Comandes Parentalis</fullName>
+                <default>false</default>
+                <label>Z34-Comandes Parentalis</label>
+            </value>
+            <value>
+                <fullName>Z35-Consum anual clients</fullName>
+                <default>false</default>
+                <label>Z35-Consum anual clients</label>
+            </value>
+            <value>
+                <fullName>Z36-Campanya Text V.Directa</fullName>
+                <default>false</default>
+                <label>Z36-Campanya Text V.Directa</label>
+            </value>
+            <value>
+                <fullName>Z37-Comercial</fullName>
+                <default>false</default>
+                <label>Z37-Comercial</label>
+            </value>
+            <value>
+                <fullName>Z38-Tèxtil</fullName>
+                <default>false</default>
+                <label>Z38-Tèxtil</label>
+            </value>
+            <value>
+                <fullName>Z39-Publicitat</fullName>
+                <default>false</default>
+                <label>Z39-Publicitat</label>
+            </value>
+            <value>
+                <fullName>Z40-Absis servir botiga cobro avançat</fullName>
+                <default>false</default>
+                <label>Z40-Absis servir botiga cobro avançat</label>
+            </value>
+            <value>
+                <fullName>Z41-Absis servir botiga cobro a la entrega</fullName>
+                <default>false</default>
+                <label>Z41-Absis servir botiga cobro a la entrega</label>
+            </value>
+            <value>
+                <fullName>Z42-Devos Absis a Botiga</fullName>
+                <default>false</default>
+                <label>Z42-Devos Absis a Botiga</label>
+            </value>
+            <value>
+                <fullName>Z43-Devos Absis recollir domicili</fullName>
+                <default>false</default>
+                <label>Z43-Devos Absis recollir domicili</label>
+            </value>
+            <value>
+                <fullName>Z44-Campanya Text Web</fullName>
+                <default>false</default>
+                <label>Z44-Campanya Text Web</label>
+            </value>
+            <value>
+                <fullName>Z45-Promoció Botiga</fullName>
+                <default>false</default>
+                <label>Z45-Promoció Botiga</label>
+            </value>
+            <value>
+                <fullName>Z46-Repartiments Estoc</fullName>
+                <default>false</default>
+                <label>Z46-Repartiments Estoc</label>
+            </value>
+            <value>
+                <fullName>Z47-Repartiments Novetats</fullName>
+                <default>false</default>
+                <label>Z47-Repartiments Novetats</label>
+            </value>
+            <value>
+                <fullName>Z48-Lots Web servir Client data pactada</fullName>
+                <default>false</default>
+                <label>Z48-Lots Web servir Client data pactada</label>
+            </value>
+            <value>
+                <fullName>Z49-Lots Web servir Botiga data pactada</fullName>
+                <default>false</default>
+                <label>Z49-Lots Web servir Botiga data pactada</label>
+            </value>
+            <value>
+                <fullName>Z50-Serveis d&apos; Operadors Logistics</fullName>
+                <default>false</default>
+                <label>Z50-Serveis d&apos; Operadors Logistics</label>
+            </value>
+            <value>
+                <fullName>Z51-Serveis d&apos; Operadors Logistics Especials</fullName>
+                <default>false</default>
+                <label>Z51-Serveis d&apos; Operadors Logistics Especials</label>
+            </value>
+            <value>
+                <fullName>Z52-Comandes WEB B2B</fullName>
+                <default>false</default>
+                <label>Z52-Comandes WEB B2B</label>
+            </value>
+            <value>
+                <fullName>Z53-Comandes WEB Text a domicili</fullName>
+                <default>false</default>
+                <label>Z53-Comandes WEB Text a domicili</label>
+            </value>
+            <value>
+                <fullName>Z54-Comandes WEB Text a botiga</fullName>
+                <default>false</default>
+                <label>Z54-Comandes WEB Text a botiga</label>
+            </value>
+            <value>
+                <fullName>Z55-Serveis d&apos; Operadors Logistics Estranger</fullName>
+                <default>false</default>
+                <label>Z55-Serveis d&apos; Operadors Logistics Estranger</label>
+            </value>
+            <value>
+                <fullName>Z56-Comanda BP Material.</fullName>
+                <default>false</default>
+                <label>Z56-Comanda BP Material.</label>
+            </value>
+            <value>
+                <fullName>Z57-Comanda BP Llibres CAT.</fullName>
+                <default>false</default>
+                <label>Z57-Comanda BP Llibres CAT.</label>
+            </value>
+            <value>
+                <fullName>Z58-Comanda BP Llibres ESP.</fullName>
+                <default>false</default>
+                <label>Z58-Comanda BP Llibres ESP.</label>
+            </value>
+            <value>
+                <fullName>Z59-Web Entrega Client (entrada botiga)</fullName>
+                <default>false</default>
+                <label>Z59-Web Entrega Client (entrada botiga)</label>
+            </value>
+            <value>
+                <fullName>Z60-Web Entrega Botiga (entrada Botiga)</fullName>
+                <default>false</default>
+                <label>Z60-Web Entrega Botiga (entrada Botiga)</label>
+            </value>
+            <value>
+                <fullName>Z61-Carrito enviat a la WEB</fullName>
+                <default>false</default>
+                <label>Z61-Carrito enviat a la WEB</label>
+            </value>
+            <value>
+                <fullName>ZCC-Web Click and Collect</fullName>
+                <default>false</default>
+                <label>ZCC-Web Click and Collect</label>
+            </value>
+            <value>
+                <fullName>ZWW-WEB WEB des de botigues</fullName>
+                <default>false</default>
+                <label>ZWW-WEB WEB des de botigues</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

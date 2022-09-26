@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Color__c</fullName>
+    <externalId>false</externalId>
+    <label>Color</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Verd Mig</fullName>
+                <default>false</default>
+                <label>Verd Mig</label>
+            </value>
+            <value>
+                <fullName>Violeta</fullName>
+                <default>false</default>
+                <label>Violeta</label>
+            </value>
+            <value>
+                <fullName>Groc Canari</fullName>
+                <default>false</default>
+                <label>Groc Canari</label>
+            </value>
+            <value>
+                <fullName>Cuir</fullName>
+                <default>false</default>
+                <label>Cuir</label>
+            </value>
+            <value>
+                <fullName>Blau Maldiva</fullName>
+                <default>false</default>
+                <label>Blau Maldiva</label>
+            </value>
+            <value>
+                <fullName>Mandarina</fullName>
+                <default>false</default>
+                <label>Mandarina</label>
+            </value>
+            <value>
+                <fullName>Verd Amazona</fullName>
+                <default>false</default>
+                <label>Verd Amazona</label>
+            </value>
+            <value>
+                <fullName>Carmí</fullName>
+                <default>false</default>
+                <label>Carmí</label>
+            </value>
+            <value>
+                <fullName>Roig</fullName>
+                <default>false</default>
+                <label>Roig</label>
+            </value>
+            <value>
+                <fullName>Groc llimona</fullName>
+                <default>false</default>
+                <label>Groc llimona</label>
+            </value>
+            <value>
+                <fullName>Groc or</fullName>
+                <default>false</default>
+                <label>Groc or</label>
+            </value>
+            <value>
+                <fullName>Siena fosc</fullName>
+                <default>false</default>
+                <label>Siena fosc</label>
+            </value>
+            <value>
+                <fullName>Groc</fullName>
+                <default>false</default>
+                <label>Groc</label>
+            </value>
+            <value>
+                <fullName>Lila</fullName>
+                <default>false</default>
+                <label>Lila</label>
+            </value>
+            <value>
+                <fullName>Multicolor</fullName>
+                <default>false</default>
+                <label>Multicolor</label>
+            </value>
+            <value>
+                <fullName>Negre</fullName>
+                <default>false</default>
+                <label>Negre</label>
+            </value>
+            <value>
+                <fullName>Or</fullName>
+                <default>false</default>
+                <label>Or</label>
+            </value>
+            <value>
+                <fullName>Plata</fullName>
+                <default>false</default>
+                <label>Plata</label>
+            </value>
+            <value>
+                <fullName>Marró</fullName>
+                <default>false</default>
+                <label>Marró</label>
+            </value>
+            <value>
+                <fullName>Beix</fullName>
+                <default>false</default>
+                <label>Beix</label>
+            </value>
+            <value>
+                <fullName>Rosa</fullName>
+                <default>false</default>
+                <label>Rosa</label>
+            </value>
+            <value>
+                <fullName>Taronja</fullName>
+                <default>false</default>
+                <label>Taronja</label>
+            </value>
+            <value>
+                <fullName>Transparent</fullName>
+                <default>false</default>
+                <label>Transparent</label>
+            </value>
+            <value>
+                <fullName>Granat</fullName>
+                <default>false</default>
+                <label>Granat</label>
+            </value>
+            <value>
+                <fullName>Verd</fullName>
+                <default>false</default>
+                <label>Verd</label>
+            </value>
+            <value>
+                <fullName>Verd Fosc</fullName>
+                <default>false</default>
+                <label>Verd Fosc</label>
+            </value>
+            <value>
+                <fullName>Vermell</fullName>
+                <default>false</default>
+                <label>Vermell</label>
+            </value>
+            <value>
+                <fullName>Blau</fullName>
+                <default>false</default>
+                <label>Blau</label>
+            </value>
+            <value>
+                <fullName>Blanc</fullName>
+                <default>false</default>
+                <label>Blanc</label>
+            </value>
+            <value>
+                <fullName>Blau Fosc</fullName>
+                <default>false</default>
+                <label>Blau Fosc</label>
+            </value>
+            <value>
+                <fullName>Natural</fullName>
+                <default>false</default>
+                <label>Natural</label>
+            </value>
+            <value>
+                <fullName>Gris</fullName>
+                <default>false</default>
+                <label>Gris</label>
+            </value>
+            <value>
+                <fullName>Gris clar</fullName>
+                <default>false</default>
+                <label>Gris clar</label>
+            </value>
+            <value>
+                <fullName>Magenta</fullName>
+                <default>false</default>
+                <label>Magenta</label>
+            </value>
+            <value>
+                <fullName>Salmó</fullName>
+                <default>false</default>
+                <label>Salmó</label>
+            </value>
+            <value>
+                <fullName>Blau Turquesa</fullName>
+                <default>false</default>
+                <label>Blau Turquesa</label>
+            </value>
+            <value>
+                <fullName>Pardo</fullName>
+                <default>false</default>
+                <label>Pardo</label>
+            </value>
+            <value>
+                <fullName>Ocre</fullName>
+                <default>false</default>
+                <label>Ocre</label>
+            </value>
+            <value>
+                <fullName>Groc Gualda</fullName>
+                <default>false</default>
+                <label>Groc Gualda</label>
+            </value>
+            <value>
+                <fullName>Blau Ultramar</fullName>
+                <default>false</default>
+                <label>Blau Ultramar</label>
+            </value>
+            <value>
+                <fullName>Verd Avet</fullName>
+                <default>false</default>
+                <label>Verd Avet</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

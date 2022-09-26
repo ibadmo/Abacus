@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>SCC_AgentProfile</fullName>
+        <categories>Profile Name</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AgentProfile</shortDescription>
+        <value>Agent</value>
+    </labels>
+    <labels>
+        <fullName>SCC_Email2Case_Address</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Email2Case Address</shortDescription>
+        <value>[LABEL_SCC_Email2Case_Address]</value>
+    </labels>
+    <labels>
+        <fullName>SCC_Email2Case_Email_Template</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Email2Case Email Template</shortDescription>
+        <value>Auto response for Email to Case</value>
+    </labels>
+    <labels>
+        <fullName>SCC_ErrorFromApex</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SCC_ErrorFromApex</shortDescription>
+        <value>An error occured:</value>
+    </labels>
+    <labels>
+        <fullName>SCC_ErrorFromCC</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SCC_ErrorFromCC</shortDescription>
+        <value>Error returned by Commerce Cloud:</value>
+    </labels>
+    <labels>
+        <fullName>SCC_ExtDataSourceAuthMiss</fullName>
+        <categories>Commerce Cloud Authentication</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SCC_ExtDataSourceAuthMiss</shortDescription>
+        <value>You don&apos;t have permission to view this data. Ask your administrator to set up authentication for the external data source.</value>
+    </labels>
+    <labels>
+        <fullName>SCC_HelpReq_NotAllowed</fullName>
+        <categories>Error Message</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>HelpReq_NotAllowed</shortDescription>
+        <value>Help request is not allowed.</value>
+    </labels>
+    <labels>
+        <fullName>SCC_HelpReq_PostFailed</fullName>
+        <categories>Error Message</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>HelpReq_PostFailed</shortDescription>
+        <value>Help request failed to post. Please try later!</value>
+    </labels>
+    <labels>
+        <fullName>SCC_HelpReq_Posted</fullName>
+        <categories>Error Message</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>HelpReq_Posted</shortDescription>
+        <value>Help request is posted to group.</value>
+    </labels>
+    <labels>
+        <fullName>SCC_HelpReq_ProcessFailed</fullName>
+        <categories>Error Message</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>HelpReq_ProcessFailed</shortDescription>
+        <value>Help request failed. Contact your administrator!</value>
+    </labels>
+    <labels>
+        <fullName>SCC_HelpRequestsGroupId</fullName>
+        <categories>Group Id</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>HelpRequestsGroupId</shortDescription>
+        <value>[LABEL_SCC_HelpRequestsGroupId]</value>
+    </labels>
+    <labels>
+        <fullName>SCC_ManagerProfile</fullName>
+        <categories>Profile Name</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ManagerProfile</shortDescription>
+        <value>Manager</value>
+    </labels>
+    <labels>
+        <fullName>SCC_Missing_Default_Account</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SCC_Missing_Default_Account</shortDescription>
+        <value>Order synchronization has failed due to missing default account in CRM. Please contact Admin of CRM.</value>
+    </labels>
+    <labels>
+        <fullName>SCC_Thread_Id_RegEX</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Thread Id RegEX</shortDescription>
+        <value>ref:.*:ref</value>
+    </labels>
+    <labels>
+        <fullName>SCC_WebCaseReplyToAddress</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SCC_WebCaseReplyToAddress</shortDescription>
+        <value>[LABEL_SCC_WebCaseReplyToAddress]</value>
+    </labels>
+    <labels>
+        <fullName>SCC_WebCaseToAddress</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SCC_WebCaseToAddress</shortDescription>
+        <value>[LABEL_SCC_WebCaseToAddress]</value>
+    </labels>
+    <labels>
+        <fullName>order_mail_bank_info</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>order_mail_bank_info</shortDescription>
+        <value>En el cas que hagis fet una comanda amb mètode de pagament Transferència Bancària (excepte si és com a Forma de Pagament habitual) caldrà fer l&apos;ingrés a:</value>
+    </labels>
+    <labels>
+        <fullName>order_mail_cart</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>order_mail_cart</shortDescription>
+        <value>Productes de la comanda:</value>
+    </labels>
+    <labels>
+        <fullName>order_mail_contact</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>order_mail_contact</shortDescription>
+        <value>&lt;span style=&quot;font-family:Helvetica,Arial,sans-serif;font-size:14px;color:#000000;line-height:1.8;&quot;&gt;Pots fer seguiment de la teva comanda accedint al teu compte. Per qualsevol dubte o aclariment pots contactar amb nosaltres a través de &lt;/span&gt;&lt;a href=&quot;mailto:materialescolar@abacus.coop&quot; alt=&quot;materialescolar@abacus.coop&quot;&gt;&lt;span style=&quot;text-decoration: underline;font-family:Helvetica,Arial,sans-serif;font-size:14px;color:#000000;line-height:1.8;&quot;&gt;materialescolar@abacus.coop&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-family:Helvetica,Arial,sans-serif;font-size:14px;color:#000000;line-height:1.8;&quot;&gt;.&lt;/span&gt;</value>
+    </labels>
+    <labels>
+        <fullName>order_mail_greeting</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>order_mail_greeting</shortDescription>
+        <value>Atentament,</value>
+    </labels>
+    <labels>
+        <fullName>order_mail_intro</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>order_mail_intro</shortDescription>
+        <value>Moltes gràcies per haver realitzat una comanda a la botiga online per a escoles d’Abacus cooperativa. El teu número de comanda és el</value>
+    </labels>
+    <labels>
+        <fullName>order_mail_payment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>order_mail_payment</shortDescription>
+        <value>Informació del pagament:</value>
+    </labels>
+    <labels>
+        <fullName>order_mail_shipping_address</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>order_mail_shipping_address</shortDescription>
+        <value>Adreça d&apos;enviament:</value>
+    </labels>
+    <labels>
+        <fullName>order_mail_text</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>order_mail_text</shortDescription>
+        <value>La comanda no es començarà a gestionar fins que no estigui realitzat aquest ingrés. Així mateix, és imprescindible que en el &quot;Concepte&quot; de la transferència ens indiquis el número de comanda i el nom de qui l&apos;efectua. La comanda se servirà una vegada s&apos;hagi efectuat la transferència de l&apos;import corresponent al número de compte indicat.</value>
+    </labels>
+    <labels>
+        <fullName>registration_mail_button</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>registration_mail_button</shortDescription>
+        <value>FINALITZAR EL REGISTRE</value>
+    </labels>
+    <labels>
+        <fullName>registration_mail_greeting</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>registration_mail_greeting</shortDescription>
+        <value>Atentament,</value>
+    </labels>
+    <labels>
+        <fullName>registration_mail_intro</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>registration_mail_intro</shortDescription>
+        <value>Estàs &lt;strong&gt;a un sol pas de finalitzar el registre&lt;/strong&gt; a la botiga online d&apos;Abacus Material Escolar. Fes clic a l&apos;enllaç que trobaràs a continuació i segueix els passos per generar una contrasenya:</value>
+    </labels>
+    <labels>
+        <fullName>registration_mail_text</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>registration_mail_text</shortDescription>
+        <value>&lt;span style=&quot;font-family:Helvetica,Arial,sans-serif;font-size:14px;color:#000000;line-height:1.8;&quot;&gt;Si no estàs intentant registrar-te, no facis cas d&apos;aquest missatge i no s&apos;executarà cap acció no desitjada. Si tens qualsevol consulta o aclariment, pots contactar amb nosaltres a través de l’adreça &lt;/span&gt;&lt;a href=&quot;mailto:materialescolar@abacus.coop&quot; alt=&quot;materialescolar@abacus.coop&quot;&gt;&lt;span style=&quot;text-decoration: underline;font-family:Helvetica,Arial,sans-serif;font-size:14px;color:#000000;line-height:1.8;&quot;&gt;materialescolar@abacus.coop&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-family:Helvetica,Arial,sans-serif;font-size:14px;color:#000000;line-height:1.8;&quot;&gt;.&lt;/span&gt;</value>
+    </labels>
+</CustomLabels>

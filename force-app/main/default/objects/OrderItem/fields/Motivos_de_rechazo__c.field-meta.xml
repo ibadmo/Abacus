@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Motivos_de_rechazo__c</fullName>
+    <externalId>false</externalId>
+    <label>Motivos de rechazo</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Z0-Posició Rebutjada pel client</fullName>
+                <default>false</default>
+                <label>Z0-Posició Rebutjada pel client</label>
+            </value>
+            <value>
+                <fullName>Z1-Descatalogat/Baixa</fullName>
+                <default>false</default>
+                <label>Z1-Descatalogat/Baixa</label>
+            </value>
+            <value>
+                <fullName>Z2-Pendent revisió preus</fullName>
+                <default>false</default>
+                <label>Z2-Pendent revisió preus</label>
+            </value>
+            <value>
+                <fullName>Z3-Cancel·lació per temps excedit</fullName>
+                <default>false</default>
+                <label>Z3-Cancel·lació per temps excedit</label>
+            </value>
+            <value>
+                <fullName>Z4-Cancel·lació incidència Proveïdor</fullName>
+                <default>false</default>
+                <label>Z4-Cancel·lació incidència Proveïdor</label>
+            </value>
+            <value>
+                <fullName>Z5-Cancel·lació Exhaurida Edició</fullName>
+                <default>false</default>
+                <label>Z5-Cancel·lació Exhaurida Edició</label>
+            </value>
+            <value>
+                <fullName>Z6-Cancel·lació Descatalogat proveïdor</fullName>
+                <default>false</default>
+                <label>Z6-Cancel·lació Descatalogat proveïdor</label>
+            </value>
+            <value>
+                <fullName>Z7-Cancel·lació en reimpressió</fullName>
+                <default>false</default>
+                <label>Z7-Cancel·lació en reimpressió</label>
+            </value>
+            <value>
+                <fullName>Z8-Cancel·lació sense existències proveïdor</fullName>
+                <default>false</default>
+                <label>Z8-Cancel·lació sense existències proveïdor</label>
+            </value>
+            <value>
+                <fullName>Z9-Incidencia C&amp;C</fullName>
+                <default>false</default>
+                <label>Z9-Incidencia C&amp;C</label>
+            </value>
+            <value>
+                <fullName>ZE-Recepcionat Elkar</fullName>
+                <default>false</default>
+                <label>ZE-Recepcionat Elkar</label>
+            </value>
+            <value>
+                <fullName>ZP-Cancel·lació Producte.</fullName>
+                <default>false</default>
+                <label>ZP-Cancel·lació Producte.</label>
+            </value>
+            <value>
+                <fullName>ZW-Carrito enviat a la WEB</fullName>
+                <default>false</default>
+                <label>ZW-Carrito enviat a la WEB</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

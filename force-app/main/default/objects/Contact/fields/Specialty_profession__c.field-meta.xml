@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Specialty_profession__c</fullName>
+    <externalId>false</externalId>
+    <label>Specialty profession</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>S/entrada</fullName>
+                <default>false</default>
+                <label>S/entrada</label>
+            </value>
+            <value>
+                <fullName>Editor</fullName>
+                <default>false</default>
+                <label>Editor</label>
+            </value>
+            <value>
+                <fullName>altres especialitats</fullName>
+                <default>false</default>
+                <label>altres especialitats</label>
+            </value>
+            <value>
+                <fullName>professor idiomes</fullName>
+                <default>false</default>
+                <label>professor idiomes</label>
+            </value>
+            <value>
+                <fullName>professor primaria</fullName>
+                <default>false</default>
+                <label>professor primaria</label>
+            </value>
+            <value>
+                <fullName>profeessor secundaria</fullName>
+                <default>false</default>
+                <label>profeessor secundaria</label>
+            </value>
+            <value>
+                <fullName>professor universitari</fullName>
+                <default>false</default>
+                <label>professor universitari</label>
+            </value>
+            <value>
+                <fullName>Professor Batxillerat</fullName>
+                <default>false</default>
+                <label>Professor Batxillerat</label>
+            </value>
+            <value>
+                <fullName>Mestre Escola Bressol</fullName>
+                <default>false</default>
+                <label>Mestre Escola Bressol</label>
+            </value>
+            <value>
+                <fullName>Educació Especial</fullName>
+                <default>false</default>
+                <label>Educació Especial</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
